@@ -1,0 +1,14 @@
+{
+  "name": "pdfium-wasm-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:urish/pdfium-wasm-example.git",
+  "author": "Uri Shaked <uri@urishaked.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "pdfium-wasm": "^0.0.2"
+  }
+}
